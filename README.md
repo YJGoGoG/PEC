@@ -1,8 +1,10 @@
-## Code for A Unified Framework to Control Estimation Error in Reinforcement Learning.
+## Code for Pseudo-Distribution Elite Critics: Enhancing Accuracy in Reinforcement Learning Value Estimation
 
 ## Requirements
 
-python: 3.8.0
+python: 3.8.19
+
+pytorch: 2.1.2
 
 Gym: 0.18.0
 
